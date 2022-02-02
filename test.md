@@ -1,3 +1,2 @@
 hogehoge
 hogehoge
-Hello world!
