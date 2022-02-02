@@ -1,6 +1,5 @@
 
 hogehoge
-hogehoge
 
 hogehoge  
 hogehoge  
